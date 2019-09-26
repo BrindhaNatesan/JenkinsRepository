@@ -1,0 +1,11 @@
+public class HelloGuys {
+
+public static void main(String[] args) {
+system.out.printin("Hey Agni");
+system.out.printin("Hey Riya");
+system.out.printin("Hey Duck");
+system.out.printin("Hey Arya");//newly added
+
+}
+
+}
